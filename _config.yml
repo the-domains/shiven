@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8853046
+color:
+  saturation: 0.802967
+  lightness: 0.8889046
+  brandStrength: 0.7078853
+  brandColors:
+    - '#07052A'
+    - '#FFFEBB'
+    - '#768372'
+    - '#D6BD87'
+    - '#414952'
+  rhythmicContrast: 0.4590682
+name: Shiven
